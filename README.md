@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Anjali1-santra/interactive-rating-component)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://anjali-interactive-rating-component.netlify.app/)
 
 ### Built with
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Anjali Santra](https://app.netlify.com/teams/anjali1-santra/overview?_ga=2.215299799.1770942371.1663152816-1199785210.1662200515)
+- Website - [Anjali Santra](https://app.netlify.com/teams/anjali1-santra/overview)
 - Frontend Mentor - [@Anjali1-santra](https://www.frontendmentor.io/profile/Anjali1-santra)
