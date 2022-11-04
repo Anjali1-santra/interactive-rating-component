@@ -39,7 +39,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Sass pre=processor
+- Sass pre-processor
 - javascript
 - Mobile-first workflow
 
